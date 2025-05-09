@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDT.svg
+.
