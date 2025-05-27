@@ -1,1 +1,1 @@
-.
+bitcoin_xx_YY.ts or bitcoin_xx.ts
